@@ -2,7 +2,7 @@ from pathlib import Path
 
 
 TEXT = (
-    "The last plate is stacked. The sink is empty, still faintly warm from the water. The kettle sits quiet on the cold burner, its whistle long finished. A single low lamp over the counter leaves the rest of the room in soft shadow. The wooden chair is pulled slightly away from the table, its seat empty, waiting for nothing. Outside the window the street is dark. Inside, the air smells of soap and the last of the evening's bread. No timer ticks. No list remains. The house holds its breath the way a room does when the day has finally set everything down."
+    "By evening, the lake has forgotten the wind. Small ripples loosen, then disappear, until the water holds the sky like a pane of smoked glass. Along the reeds, a heron lifts one foot, sets it down, and waits. A single ring widens behind it, touching the reflection of the darkening pines before fading. On the far shore, the last windows glow softly, then blur into blue. Somewhere, a dock rope taps once against a post. The sound travels a little way and is gone. Nothing crosses the lake now. The evening settles over its surface, and the water keeps the quiet without asking anything of it."
 )
 
 

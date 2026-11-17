@@ -4,7 +4,7 @@
 
 # ai-judge-relax-01
 
-This entry writes a short relaxing text about a quiet kitchen after dinner, as the day finally sets everything down, to `/output/entry.txt` for make.fun `ai-judge-relax-01`.
+This entry writes a short relaxing text about a still lake at evening, with everything settling into quiet, to `/output/entry.txt` for make.fun `ai-judge-relax-01`.
 
 Run it with:
 
