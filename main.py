@@ -2,7 +2,12 @@ from pathlib import Path
 
 
 TEXT = (
-    "In the old barn, moonlight lies in a narrow stripe across the hay. A little owl sleeps on the beam above the quiet stalls, feathers rounded against the night air. Below, a mare shifts her weight and settles, the straw whispering under one hoof. The wooden door rests against its latch; beyond it, the fields are silver with dew. A moth circles the lantern once and disappears into the rafters. The owl’s head turns beneath one wing. Nothing moves except the faint dust in the moonbeam, drifting down through the warm, still dark."
+    "On the porch, a woman dozes in a rocking chair, a quilt loose over her knees.\n\n"
+    "The hem brushes a knot in the floorboard, then draws back. The chair comes forward. The hem brushes the knot again.\n\n"
+    "For a while it goes just that far, with a low creak from one runner. Then the hem reaches only the near edge of the knot. On the next pass, a little less.\n\n"
+    "The chair still rocks, but the creak has gone. The hem moves over a smaller patch of wood, back and forth, until a loose thread rests against the board.\n\n"
+    "It lifts once more.\n\n"
+    "Then it lies along the grain of the wood."
 )
 
 
