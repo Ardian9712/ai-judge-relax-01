@@ -6,6 +6,11 @@ TEXT = (
 )
 
 
-output_path = Path("/output/entry.txt")
-output_path.parent.mkdir(parents=True, exist_ok=True)
-output_path.write_text(TEXT, encoding="utf-8", newline="")
+def main():
+    output_path = Path("/output/entry.txt")
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text(TEXT, encoding="utf-8", newline="")
+
+
+if __name__ == "__main__":
+    main()
