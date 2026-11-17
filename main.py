@@ -2,7 +2,7 @@ from pathlib import Path
 
 
 TEXT = (
-    "By evening, the lake has forgotten the wind. Small ripples loosen, then disappear, until the water holds the sky like a pane of smoked glass. Along the reeds, a heron lifts one foot, sets it down, and waits. A single ring widens behind it, touching the reflection of the darkening pines before fading. On the far shore, the last windows glow softly, then blur into blue. Somewhere, a dock rope taps once against a post. The sound travels a little way and is gone. Nothing crosses the lake now. The evening settles over its surface, and the water keeps the quiet without asking anything of it."
+    "In the old barn, moonlight lies in a narrow stripe across the hay. A little owl sleeps on the beam above the quiet stalls, feathers rounded against the night air. Below, a mare shifts her weight and settles, the straw whispering under one hoof. The wooden door rests against its latch; beyond it, the fields are silver with dew. A moth circles the lantern once and disappears into the rafters. The owl’s head turns beneath one wing. Nothing moves except the faint dust in the moonbeam, drifting down through the warm, still dark."
 )
 
 
