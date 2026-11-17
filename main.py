@@ -2,7 +2,7 @@ from pathlib import Path
 
 
 TEXT = (
-    "In the last light of afternoon, a gray cat sleeps on the wide sill above the garden. One paw rests over the edge, opening and closing once in a dream, while the sun warms the silver fur along its back. Dust turns slowly in the golden air. Beyond the glass, a small branch moves with the breeze, and a bird settles among the leaves. The house holds its quiet: a kettle cooling in the kitchen, curtains barely stirring, the clock making its patient rounds. The cat's whiskers tremble, then smooth. Nothing is waiting at the door. The light stays a little longer, soft on the sill, soft on the garden, soft on the sleeping cat."
+    "The last plate is stacked. The sink is empty, still faintly warm from the water. The kettle sits quiet on the cold burner, its whistle long finished. A single low lamp over the counter leaves the rest of the room in soft shadow. The wooden chair is pulled slightly away from the table, its seat empty, waiting for nothing. Outside the window the street is dark. Inside, the air smells of soap and the last of the evening's bread. No timer ticks. No list remains. The house holds its breath the way a room does when the day has finally set everything down."
 )
 
 
