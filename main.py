@@ -2,12 +2,22 @@ from pathlib import Path
 
 
 TEXT = (
-    "On the porch, a woman dozes in a rocking chair, a quilt loose over her knees.\n\n"
-    "The hem brushes a knot in the floorboard, then draws back. The chair comes forward. The hem brushes the knot again.\n\n"
-    "For a while it goes just that far, with a low creak from one runner. Then the hem reaches only the near edge of the knot. On the next pass, a little less.\n\n"
-    "The chair still rocks, but the creak has gone. The hem moves over a smaller patch of wood, back and forth, until a loose thread rests against the board.\n\n"
-    "It lifts once more.\n\n"
-    "Then it lies along the grain of the wood."
+    "The empty swing slows.\n\n"
+    "Its arc was wide after the children left.\n\n"
+    "Now each pass is shorter.\n\n"
+    "Forward to the edge of the shade.\n\n"
+    "Back almost to the trunk.\n\n"
+    "The chain softens.\n\n"
+    "A dry leaf catches on one seat and rides three times before it slips off.\n\n"
+    "The grass beneath is already rising.\n\n"
+    "One more small push of air.\n\n"
+    "The swing barely reaches the shadow's edge.\n\n"
+    "It hangs.\n\n"
+    "Turns a little.\n\n"
+    "Settles.\n\n"
+    "The chains are quiet.\n\n"
+    "The leaf on the ground does not move.\n\n"
+    "Evening comes the way the swing stopped—without announcement."
 )
 
 
